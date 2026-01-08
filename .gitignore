@@ -1,0 +1,46 @@
+# Maven
+target/
+
+# Gradle
+build/
+.gradle/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# Hibernate release zip
+ElderlyCompanionSystemServer27255/dist/lib/hibernate-release-5.4.33.Final.zip
+
+# Build directories
+**/build/
+**/target/
+**/bin/
+**/dist/
